@@ -1,0 +1,35 @@
+{
+  "configurations" : [
+    {
+      "id" : "A553C36C-F187-41AE-AB58-07F055898AD8",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "language" : "ru",
+    "locationScenario" : {
+      "identifier" : "Moscow, Russia",
+      "referenceType" : "built-in"
+    },
+    "region" : "RU",
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:VKR.xcodeproj",
+      "identifier" : "613BF21F2465541B00F8A42F",
+      "name" : "VKR"
+    }
+  },
+  "testTargets" : [
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:VKR.xcodeproj",
+        "identifier" : "6182ACB1246B09C200CBA135",
+        "name" : "VKRUITests"
+      }
+    }
+  ],
+  "version" : 1
+}

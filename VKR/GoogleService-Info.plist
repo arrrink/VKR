@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>168193704497-eobg81v52cdecvnc761di3cbv72c7qth.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.168193704497-eobg81v52cdecvnc761di3cbv72c7qth</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBmaC1vxiInDkSw6pkost3Zehdesw50qvk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>168193704497</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>VKR</string>
+	<key>PROJECT_ID</key>
+	<string>vkrnefedova2020</string>
+	<key>STORAGE_BUCKET</key>
+	<string>vkrnefedova2020.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:168193704497:ios:e9d73975ac4e0630d44b10</string>
+	<key>DATABASE_URL</key>
+	<string>https://vkrnefedova2020.firebaseio.com</string>
+</dict>
+</plist>
