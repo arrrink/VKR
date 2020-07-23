@@ -607,7 +607,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = go.go.vkr;
+				PRODUCT_BUNDLE_IDENTIFIER = VKR;
 				PRODUCT_NAME = "Грузовое такси";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;
@@ -627,7 +627,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = go.go.vkr;
+				PRODUCT_BUNDLE_IDENTIFIER = VKR;
 				PRODUCT_NAME = "Грузовое такси";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;

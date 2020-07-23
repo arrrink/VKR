@@ -9,7 +9,6 @@
 import UIKit
 import Firebase
 import MapKit
-import Foundation
 
 private let reuseIdentifier = "LocationCell"
 private let annotationIdentifier = "DriverAnnotation"
